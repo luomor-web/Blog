@@ -72,11 +72,6 @@ logging:
     root: info
   path: e:/springboot-blog
 
-
-
-
-
-
 ### jwt
 jwt:
   ###过期时间 s数432000 5天
