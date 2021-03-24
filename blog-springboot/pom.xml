@@ -92,7 +92,6 @@
             <artifactId>spring-boot-starter-data-redis</artifactId>
         </dependency>
 
-
         <!-- 消息队列操作支持 -->
         <dependency>
             <groupId>org.springframework.boot</groupId>
@@ -104,7 +103,6 @@
             <groupId>org.springframework.boot</groupId>
             <artifactId>spring-boot-starter-aop</artifactId>
         </dependency>
-
 
         <!-- lombok -->
         <dependency>
