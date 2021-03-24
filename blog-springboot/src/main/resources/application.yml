@@ -21,8 +21,8 @@ spring:
   mail:
     host: smtp.qq.com
     port: 465
-    username: ***@qq.com
-    password: ***
+    username: test@qq.com
+    password: test
     default-encoding: UTF-8
     properties:
       mail:
@@ -34,7 +34,6 @@ spring:
            ### 如果使用qq邮箱，且部署在阿里云，需要启动ssl，且端口配置为465
 #         ssl:
 #            enable: true
-
 
   ###Redis
   redis:
